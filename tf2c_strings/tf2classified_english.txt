@@ -1322,7 +1322,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "TF_BurningDeathAnim"				"Enable burning death animations"
 "TF_BurningDeathAnim_Tip"			"If set, ragdolls will have a chance to play a special death animation when dying from fire"
 "TF_CombatTextBatchingWindow"		"Delay between accumulated combat text damage events"
-"TF_CombatTextBatchingWindow_Tip"	"Maximum delay between damage events in order to batch number"
+"TF_CombatTextBatchingWindow_Tip"	"Maximum delay between damage events in order to batch numbers"
 "TF_CombatTextDropShadow"           "Display combat text with drop shadow"
 "TF_CombatTextDropShadow_Tip"       "If set, shows drop shadow on combat text"
 
